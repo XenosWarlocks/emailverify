@@ -1,0 +1,66 @@
+# Known typo-squat / fat-finger domains -> the domain the user almost certainly meant.
+# Format: typo<TAB or whitespace>correction
+#
+# Beyond this explicit table the classifier also does an edit-distance-1 check
+# against popular_domains.txt, which catches the long tail automatically.
+# This file is for cases distance-1 misses or gets wrong.
+gmial.com	gmail.com
+gmai.com	gmail.com
+gmial.co	gmail.com
+gmaill.com	gmail.com
+gnail.com	gmail.com
+gmil.com	gmail.com
+gamil.com	gmail.com
+gmail.co	gmail.com
+gmail.cm	gmail.com
+gmail.con	gmail.com
+gmail.om	gmail.com
+gmailc.om	gmail.com
+gmal.com	gmail.com
+ggmail.com	gmail.com
+gmaul.com	gmail.com
+gmsil.com	gmail.com
+gmqil.com	gmail.com
+gmail.ocm	gmail.com
+gmail.vom	gmail.com
+gmail.xom	gmail.com
+emial.com	gmail.com
+hotmai.com	hotmail.com
+hotmial.com	hotmail.com
+hotmaill.com	hotmail.com
+hotmal.com	hotmail.com
+hotamil.com	hotmail.com
+hotmail.co	hotmail.com
+hotmail.cm	hotmail.com
+hotmail.con	hotmail.com
+homail.com	hotmail.com
+hormail.com	hotmail.com
+yaho.com	yahoo.com
+yahooo.com	yahoo.com
+yahoo.co	yahoo.com
+yahoo.cm	yahoo.com
+yahoo.con	yahoo.com
+yhoo.com	yahoo.com
+yahhoo.com	yahoo.com
+ayhoo.com	yahoo.com
+outlok.com	outlook.com
+outlook.co	outlook.com
+outlook.cm	outlook.com
+outloo.com	outlook.com
+outllok.com	outlook.com
+putlook.com	outlook.com
+icloud.co	icloud.com
+iclod.com	icloud.com
+icoud.com	icloud.com
+iclould.com	icloud.com
+protonmai.com	protonmail.com
+protonmial.com	protonmail.com
+protonmail.co	protonmail.com
+aol.co	aol.com
+aol.cm	aol.com
+live.co	live.com
+msn.co	msn.com
+comcast.ent	comcast.net
+comcat.net	comcast.net
+rediffmai.com	rediffmail.com
+rediffmial.com	rediffmail.com

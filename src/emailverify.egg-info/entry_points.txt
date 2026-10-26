@@ -1,0 +1,2 @@
+[console_scripts]
+emailverify = emailverify.cli:main

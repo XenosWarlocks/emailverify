@@ -1,0 +1,43 @@
+# High-traffic mailbox domains used as the reference set for edit-distance-1
+# typo detection. Keep this list SHORT and only genuinely huge domains --
+# every entry here is a magnet that can pull a legitimate small domain into a
+# false "did you mean" suggestion.
+gmail.com
+googlemail.com
+yahoo.com
+yahoo.co.in
+yahoo.co.uk
+hotmail.com
+hotmail.co.uk
+outlook.com
+live.com
+msn.com
+icloud.com
+me.com
+aol.com
+protonmail.com
+proton.me
+zoho.com
+gmx.com
+gmx.de
+mail.com
+mail.ru
+yandex.ru
+qq.com
+163.com
+126.com
+naver.com
+rediffmail.com
+comcast.net
+verizon.net
+att.net
+sbcglobal.net
+cox.net
+charter.net
+web.de
+t-online.de
+orange.fr
+free.fr
+libero.it
+wp.pl
+seznam.cz

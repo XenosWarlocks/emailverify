@@ -1,0 +1,27 @@
+# Alias / forwarding relays. These accept mail and forward it to a hidden real
+# mailbox, so SMTP verification always says "deliverable" and tells you nothing
+# about whether a human reads it. The owner can also disable the alias at any
+# time without the address starting to bounce in a way you can detect.
+#
+# Distinct from disposable: these are long-lived, intentional privacy aliases,
+# so treat as risky-but-contactable rather than junk.
+8shield.net
+addy.io
+anonaddy.com
+anonaddy.me
+bugcrowdninja.com
+duck.com
+firefox.com
+hackerone.com
+icloud.com.private-relay
+mozmail.com
+privaterelay.appleid.com
+relay.firefox.com
+simplelogin.co
+simplelogin.com
+simplelogin.fr
+simplelogin.io
+sl.mailbox.org
+slmail.me
+wearehackerone.com
+yourbugbountyprogram.com
